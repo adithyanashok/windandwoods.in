@@ -1,0 +1,228 @@
+.logo{
+    width: 337px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.about-content {
+
+    color: black;
+    
+
+}
+.about-text{
+    font-family: 'Prata', serif, 'google';    
+    font-size: 48px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.sub-text{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    font-family: Playfair Display Regular;
+    font-size: 1.9375rem;
+    letter-spacing: 0.04em;
+    word-spacing: 0em;
+    line-height: 1.3em;
+    color: #474747;
+    text-transform: none;
+    font-weight: normal;
+}
+.text{
+    color: #474747;
+    text-transform: none;
+    font-size: 13px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.images img{
+    width: 552px;
+    height: 302px;
+}
+
+.more-about-us{
+    position: relative;
+}
+.get-in-touch{
+    position: relative;
+}
+.more-about-image{
+    transition: opacity 0.25s linear, filter 0.25s linear;
+}
+.get-in-touch-image:hover{
+    filter: blur(1px);
+    transition: opacity 0.25s linear, filter 0.25s linear;
+}
+.more-about-image:hover{
+    filter: blur(1px);
+    transition: opacity 0.25s linear, filter 0.25s linear;
+}
+.first-txt {
+    position: absolute;
+    top: 135px;
+    left: 34%;
+    color: white;
+    font-family: 'Prata', serif, 'google'; 
+}
+.gallery-img{
+    width: 100%;
+}
+.gallery-text{
+    font-family: 'Prata', serif, 'google'; 
+    text-align: center;
+    letter-spacing: 0.04em;
+    word-spacing: 0em;
+    line-height: 1.3em;
+    color: #474747;
+    text-transform: none;
+    font-weight: normal;
+}
+.gallery-logo{
+    text-align: center;
+    width: 53px;
+    height: 93px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gallery{
+    margin-top: 107px;
+}
+.elopment-section{
+    margin-top: 110px;
+    font-family: 'Prata', serif, 'google';
+    background-color: #e6e4e4;
+    height: 71em;
+}
+.elopment-title{
+    text-align: center;
+    margin-top: 73px;
+}
+.elopment-sub-title{
+    text-align: center;
+    font-family: Playfair Display Regular;
+    font-size: 18px;
+    line-height: 1.3em;
+    color: black;
+    text-transform: none;
+    font-weight: normal;
+}
+.elopment-content{
+    margin-top: 41px;
+    font-family: 'Lato', sans-serif, 'google';
+    font-size: 0.9000em;
+    letter-spacing: 0.03em;
+    word-spacing: 0em;
+    line-height: 1.74em;
+    color: #666666;
+    text-transform: none;
+    font-weight: normal;
+}
+.elopment-text{
+    text-align: center;
+}
+.elopment-video{
+    margin-top: 15px;
+}
+.works-videos{
+    width: 100%;
+}
+.elopment-video video::-webkit-media-controls-panel {
+    width: 40px;
+  }
+.services{
+    width: 457px;
+}
+.services-images{
+    width: 100%;
+}
+.services-images3{
+    height: 41em;
+}
+.services{
+    position: relative;
+}
+.second-txt {
+    position: absolute;
+    top: 525px;
+    left: 34%;
+    color: white;
+    font-family: 'Prata', serif, 'google'; 
+}
+.s h1{
+    text-align: center;
+    font-family: 'Prata', serif, 'google'; 
+    letter-spacing: 0.04em;
+    word-spacing: 0em;
+    line-height: 1.3em;
+    color: #474747;
+    text-transform: none;
+    font-weight: normal;
+}
+.instagram-link-section{
+    margin-top: 19%;
+}
+.instagram-link-section h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif, 'google';
+    font-size: 0.720rem;
+    letter-spacing: 0.27em;
+    word-spacing: 0em;
+    line-height: 0.96em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.instagram-link-section p {
+    text-align: center;
+   
+}
+.instagram-link-section a{
+    text-decoration: none;
+    font-family: 'Prata', serif, 'google'; 
+    letter-spacing: 0.04em;
+    word-spacing: 0em;
+    line-height: 1.3em;
+    color: #474747;
+    text-transform: none;
+    font-weight: normal;
+}
+.section{
+    padding: 17px;
+    font-family: 'Roboto', sans-serif, 'google';
+    font-size: 0.725rem;
+    letter-spacing: 0.27em;
+    word-spacing: 0em;
+    line-height: 0.96em;
+    color: #0a0a0a;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.section p{
+    text-align: center;
+}
+footer{
+    margin-top: 265px;
+    background: #dddbdb;
+    height: 348px;
+    padding: 118px;
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+}
+.social-icons i{
+    margin: 12px;
+}
+
+
