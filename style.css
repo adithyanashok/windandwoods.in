@@ -1,5 +1,8 @@
+body{
+    background: #0b363c;
+}
 .logo{
-    width: 337px;
+    width: 25%;
     display: block;
     margin-left: auto;
     margin-right: auto; 
@@ -15,13 +18,17 @@
     
 
 }
+.about-section{
+    margin-top: 174px;
+}
 .about-text{
     font-family: 'Prata', serif, 'google';    
-    font-size: 48px;
+    font-size: 44px;
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto; 
+    color: #e9bba4;
 }
 .sub-text{
     text-align: center;
@@ -33,12 +40,12 @@
     letter-spacing: 0.04em;
     word-spacing: 0em;
     line-height: 1.3em;
-    color: #474747;
+    color: #dfcfc6;
     text-transform: none;
     font-weight: normal;
 }
 .text{
-    color: #474747;
+    color: #dfcfc6;
     text-transform: none;
     font-size: 13px;
     text-align: center;
@@ -71,7 +78,7 @@
 .first-txt {
     position: absolute;
     top: 135px;
-    left: 34%;
+    left: 31%;
     color: white;
     font-family: 'Prata', serif, 'google'; 
 }
@@ -84,7 +91,7 @@
     letter-spacing: 0.04em;
     word-spacing: 0em;
     line-height: 1.3em;
-    color: #474747;
+    color: #e9bba4;
     text-transform: none;
     font-weight: normal;
 }
@@ -155,7 +162,7 @@
 }
 .second-txt {
     position: absolute;
-    top: 525px;
+    top: 80%;
     left: 34%;
     color: white;
     font-family: 'Prata', serif, 'google'; 
@@ -166,7 +173,7 @@
     letter-spacing: 0.04em;
     word-spacing: 0em;
     line-height: 1.3em;
-    color: #474747;
+    color: #e9bba4;
     text-transform: none;
     font-weight: normal;
 }
@@ -182,6 +189,7 @@
     line-height: 0.96em;
     text-transform: uppercase;
     font-weight: normal;
+    color: #e9bba4;
 }
 .instagram-link-section p {
     text-align: center;
@@ -193,7 +201,7 @@
     letter-spacing: 0.04em;
     word-spacing: 0em;
     line-height: 1.3em;
-    color: #474747;
+    color: #e9bba4;
     text-transform: none;
     font-weight: normal;
 }
@@ -223,6 +231,22 @@ footer{
 }
 .social-icons i{
     margin: 12px;
+}
+.banner-mob{
+    display: none;
+}
+@media only screen and (max-width: 882px){
+        .banner-mob{
+            display: block;
+            margin-left: auto;
+            margin-right: auto; 
+        }
+        .banner{
+            display: none;
+            margin-left: auto;
+            margin-right: auto; 
+        }
+    
 }
 
 
