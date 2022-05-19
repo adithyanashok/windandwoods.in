@@ -46,3 +46,62 @@
         width: 99%;
     }
 }
+
+.instagram-link-section{
+    margin-top: 19%;
+}
+.instagram-link-section h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif, 'google';
+    font-size: 0.720rem;
+    letter-spacing: 0.27em;
+    word-spacing: 0em;
+    line-height: 0.96em;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #e9bba4;
+}
+.instagram-link-section p {
+    text-align: center;
+   
+}
+.instagram-link-section a{
+    text-decoration: none;
+    font-family: 'Prata', serif, 'google'; 
+    letter-spacing: 0.04em;
+    word-spacing: 0em;
+    line-height: 1.3em;
+    color: #e9bba4;
+    text-transform: none;
+    font-weight: normal;
+}
+.section{
+    padding: 17px;
+    font-family: 'Roboto', sans-serif, 'google';
+    font-size: 0.725rem;
+    letter-spacing: 0.27em;
+    word-spacing: 0em;
+    line-height: 0.96em;
+    color: #0a0a0a;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.section p{
+    text-align: center;
+}
+footer{
+    margin-top: 265px;
+    background: #dddbdb;
+    height: 348px;
+    padding: 118px;
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+}
+.social-icons i{
+    margin: 12px;
+}
+.social-icons a{
+    color: #0a0a0a;
+}
